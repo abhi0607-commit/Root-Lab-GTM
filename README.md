@@ -49,16 +49,6 @@ Page references (kept in `src/data/`, no longer shown on the site) are **physica
 - Market scores: US 87, EU 72 (region), Japan 70, China 65, Vietnam 48. Recomputing with the p. 62 weights reproduces all five exactly.
 - Landed cost: 10,000 units → **$73,582.84**, **$7.36/unit** (p. 79), computed live rather than hard-coded.
 
-## Known research limitations
-
-These are kept here for reference; source lines, limitations and the methods drawer were removed from the site itself:
-- Survey sample size and fieldwork dates are not documented; the survey is cited to a trade magazine and was not checked directly.
-- Trends export date, geography and settings are unknown; Nov 2026 was a partial month; each term is indexed separately.
-- Review selection method is undocumented; one Lilyeve Scalp:Turn review describes a shampoo; the VT review table is headed "Hair Ampoule", not "Brush Hair Serum".
-- Factory price, freight, insurance, brokerage and delivery are assumed quotes; 12.5% duty is a scenario assumption; MPF caps aren't modeled; platform fees, ads and returns are excluded.
-- The market ranking and SWOT were written about VT's reference serum, not a ROOT Lab product.
-- Source conflicts (product name drafts, menthol, pack format, second market, US import value, insurance %) are listed in `src/data/integrity.ts`.
-
 ## Where to edit
 
 | What | File |
