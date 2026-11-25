@@ -37,8 +37,7 @@ The site honours `prefers-reduced-motion` and works without animation.
 | Source | Status | Used for |
 |---|---|---|
 | `Group A Trade Project Notes_.pdf` (111 pages) | **Used** (found in `Downloads/`, not in this folder) | Every number and claim on the site |
-| `ROOT_LAB_site_data.json` | **Missing** | Not used. The equivalent data was transcribed from the PDF into `src/data/` |
-| `ROOT_LAB_Interactive_Portfolio_10_Slides.pptx` | **Missing** | Not used. Section order follows the build brief |
+| `ROOT_LAB_site_data.json` | https://root-lab-pied.vercel.app/ | Not used. The equivalent data was transcribed from the PDF into `src/data/` |
 | Four ROOT Lab mockup images | Used | Originals copied to `assets/`; resized WebP copies in `public/assets/` |
 
 Page references (kept in `src/data/`, no longer shown on the site) are **physical PDF page indices (1-based)**. Google Trends values (pp. 81–85) were parsed straight from the PDF text, not typed by hand, and the duplicate itchy-scalp table on pp. 86–87 matches exactly.
